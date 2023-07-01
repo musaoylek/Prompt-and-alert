@@ -1,1 +1,3 @@
-var thename = window.prompt("What's your name?","");  if (thename.length < 1) {   thename = "Anonymous Visitor"; } window.alert("Hello "+thename+"!");
+<script>
+var isim = window.prompt("Lütfen isminizi giriniz?","");  if (isim.length < 1) {   isim = "Misafir İzleyici"; } window.alert("Merhaba "+isim+"!");
+</script>
